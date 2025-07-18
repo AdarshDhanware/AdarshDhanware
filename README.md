@@ -48,18 +48,10 @@
 
 ---
 
-## 🧰 Technologies I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,firebase,tailwind,git,github,postman,vscode" />
-</p>
-
----
-
-## 📈 GitHub Stats
+## 🎨 My Developer Vibe
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdarshDhanware&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshDhanware&theme=tokyonight" />
+  <img src="https://assets10.lottiefiles.com/packages/lf20_0yfsb3a1.json.gif" width="300" alt="developer animation" />
 </p>
 
 ---
