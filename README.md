@@ -63,7 +63,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <hr style="border: 1px dashed #ccc;" />
 
@@ -78,6 +78,6 @@
 <hr style="border: 1px dashed #ccc;" />
 
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
 ⭐️ _If you like my work, feel free to star my repositories and follow me for updates!_
