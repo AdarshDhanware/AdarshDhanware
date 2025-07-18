@@ -48,11 +48,10 @@
 
 ---
 
-## 🎨 My Developer Vibe
+## 🐍 My GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_0yfsb3a1.json.gif" width="300" alt="developer animation" />
-</p>
+![snake gif](https://github.com/AdarshDhanware/AdarshDhanware/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
