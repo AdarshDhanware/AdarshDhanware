@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Adarsh Dhanware</h1>
 <h3 align="center">MERN Stack Developer | Programmer</h3>
 
----
+<hr style="border: 1px dashed #ccc;" />
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;UX+Focused+Engineer;Always+Building+Something" />
+</p>
+
+
+<hr style="border: 1px dashed #ccc;" />
+
 
 ## 🧑‍💻 About Me
 
@@ -10,7 +19,8 @@
 - 💡 Passionate about building scalable full-stack apps, exploring modern UI/UX, and solving real-world problems
 - 🌍 Actively building projects in the **MERN Stack**, integrating APIs, real-time systems, and auth flows
 
----
+<hr style="border: 1px dashed #ccc;" />
+
 
 ## 🧰 My Tech Stack
 
@@ -46,7 +56,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
----
+<hr style="border: 1px dashed #ccc;" />
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -54,7 +65,8 @@
 
 
 
----
+<hr style="border: 1px dashed #ccc;" />
+
 
 ## 📫 Connect With Me
 
@@ -63,7 +75,8 @@
 - 📧 Email: [adarshdhanware@gmail.com](mailto:adarshdhanware@gmail.com)
 - 🐙 [GitHub](https://github.com/AdarshDhanware)
 
----
+<hr style="border: 1px dashed #ccc;" />
+
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
