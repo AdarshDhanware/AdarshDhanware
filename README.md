@@ -4,14 +4,6 @@
 <hr style="border: 1px dashed #ccc;" />
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;UX+Focused+Engineer;Always+Building+Something" />
-</p>
-
-
-<hr style="border: 1px dashed #ccc;" />
-
-
 ## 🧑‍💻 About Me
 
 - 🎓 Final Year B.Tech CSE Student at Oriental College of Technology (2022–2026)
