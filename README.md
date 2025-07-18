@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Dhanware</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Competitive Programmer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;500%2B+Leetcode+Problems+Solved;Always+Learning+and+Building!&center=true&width=500&height=45">
-</p>
+<h3 align="center">MERN Stack Developer | Programmer</h3>
 
 ---
 
@@ -12,7 +8,6 @@
 - 🎓 Final Year B.Tech CSE Student at Oriental College of Technology (2022–2026)
 - 💼 Web Developer Intern at **Jincora Tech Solutions** (Mar 2025 – Present)
 - 💡 Passionate about building scalable full-stack apps, exploring modern UI/UX, and solving real-world problems
-- 🧠 Solved **500+ problems on LeetCode**, strong C++ and JavaScript foundation
 - 🌍 Actively building projects in the **MERN Stack**, integrating APIs, real-time systems, and auth flows
 
 ---
@@ -53,19 +48,10 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 [Real-Time Chat Application](https://github.com/AdarshDhanware/Realtime-chat-Application--Talksy) | [Live Demo](https://talksytalk.vercel.app/login)
-Built with MERN + Socket.IO  
-- Real-time chat with JWT auth and user sessions  
-- Group messaging + online status  
-- Fully responsive UI
-
-### 🔹 [Currency Tracker](https://github.com/AdarshDhanware/Context-API---Currency-Tracker) | [Live Demo](https://currencytrackerxo.netlify.app/)
-React + API Fetch + Context API  
-- Real-time currency exchange rate viewer  
-- Centralized state management  
-- Clean and mobile-friendly design
+## 🧰 Technologies I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,firebase,tailwind,git,github,postman,vscode" />
+</p>
 
 ---
 
