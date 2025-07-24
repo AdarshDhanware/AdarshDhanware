@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE Student at Oriental College of Technology (2022–2026)
+- 🎓 Final Year B.Tech Student at Oriental College of Technology (2022–2026)
 - 💼 Web Developer Intern at **Jincora Tech Solutions** (Mar 2025 – Present)
 - 💡 Passionate about building scalable full-stack apps, exploring modern UI/UX, and solving real-world problems
 - 🌍 Actively building projects in the **MERN Stack**, integrating APIs, real-time systems, and auth flows
